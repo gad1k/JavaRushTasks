@@ -1,2 +1,1 @@
-# JavaRushTasks
-Online course training
+# Онлайн-курс обучения программированию
