@@ -1,0 +1,10 @@
+﻿.idea
+out/
+target/
+*.iml
+*.png
+*.properties
+*.jar
+*.log*
+
+
